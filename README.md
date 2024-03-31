@@ -47,3 +47,12 @@ Open your web browser and visit http://127.0.0.1:8000/movies-list to access the 
 # Published By
 
 https://www.tutsmake.com/
+
+# Add product to shopping cart application view:
+![Add to cart Image 1](https://github.com/tutsmake/Laravel-11-Add-Product-to-Shopping-Cart-Example-Tutorial/blob/main/Laravel%2011%20Add%20Product%20To%20Shopping%20Cart%20example.png)
+![Add to cart Image 2](https://github.com/tutsmake/Laravel-11-Add-Product-to-Shopping-Cart-Example-Tutorial/blob/main/Laravel%2011%20Add%20Product%20To%20Shopping%20Cart.png)
+![Remove Product from Cart Image](https://github.com/tutsmake/Laravel-11-Add-Product-to-Shopping-Cart-Example-Tutorial/blob/main/Laravel%2011%20Add%20Product%20To%20Shopping%20Cart%20tutorial.png)
+
+
+
+
